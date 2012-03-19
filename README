@@ -1,0 +1,5 @@
+A simple multi-threaded file-sharing system, consisting of a server and client.  Client can download existing files made available by server in addition to uploading files to available servers.  Server is capable of handling multiple incoming client requests, as well as resuming an interrupted transfer from the point of interruption.  
+
+Executable jars are available with more detailed instruction for usage.  
+
+Enhancements and revisions to code coming soon.  
